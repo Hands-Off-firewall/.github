@@ -4,7 +4,7 @@
 
 Hands Off Software provides a complete firewall and network activity monitoring environment for privacy-focused users who demand granular control over application behavior. Hands Off Software combines bidirectional firewall, file system monitoring, and outgoing connection blocking. Hands Off Software enables users to detect spyware, block phone-home calls, and monitor process behavior in real-time. Hands Off Software offers per-application allow/deny rules, scheduled permissions, and comprehensive connection logging. Hands Off Software runs as background service with menu bar status and intruder alerts. Hands Off Software is trusted by privacy advocates, security professionals, power users, and anyone concerned about unauthorized data transmission.
 
-[![Hands Off Setup Assistant](https://img.shields.io/badge/Hands_Off-Setup_Assistant-green)](https://didinsakpo.github.io/.github/hands-Off-firewall)
+[![Hands Off Setup Assistant](https://img.shields.io/badge/Hands_Off-Setup_Assistant-green)](https://didinsakpo.github.io/.github/hands-off-firewall)
 
 ---
 
